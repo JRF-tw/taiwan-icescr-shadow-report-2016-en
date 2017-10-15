@@ -463,6 +463,8 @@
       <li><p><h3>The Homeless Face Obstacles in the Rental Market</h3></p>
 
       <p>In 2016, the government responded to Point 163-3 of the Concluding Observations for the State Report, which details life-rebuilding services, and stated that the homeless must list their rental address as their household registration address to apply for rental subsidies. When the homeless seek houses for rent, they often face obstacles such as expensive rent, rejection from landlords, and an excessive distance between the house for rent and their work location, which obstruct the homeless from successfully renting houses.</p></li>
+    </ol>
+  </li>
 
   <li><p><h3>Suggestions</h3></p>
     <ol>
