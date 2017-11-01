@@ -127,3 +127,7 @@ The report is the product of scores of authors affiliated with 79 NGOs, whose na
 ## License
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+## Resources
+
+* [Gitbook](https://www.gitbook.com/book/jrf-tw/taiwan-icescr-shadow-report-2016-en/)
